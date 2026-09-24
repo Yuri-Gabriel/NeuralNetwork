@@ -1,7 +1,5 @@
 # NeuralNetwork
 
-Rede neural implementada em Java para classificar imagens do dataset MNIST, desenvolvida do zero com matrizes, propagação direta e backpropagation.
-
 ## Visão geral
 
 Este projeto implementa uma rede neural multicamadas para reconhecer dígitos manuscritos usando arquivos no formato IDX (MNIST). A arquitetura foi construída manualmente em Java, sem bibliotecas de aprendizado de máquina, com foco em entender o funcionamento interno de uma rede neural.
